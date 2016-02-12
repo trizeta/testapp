@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.couchbase.lite.phonegap": {
+            "PACKAGE_NAME": "com.couchbase.TodoLite.TodoLite"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.couchbase.TodoLite.TodoLite"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.couchbase.TodoLite.TodoLite"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.couchbase.TodoLite.TodoLite"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.couchbase.TodoLite.TodoLite"
+        }
+    },
+    "dependent_plugins": {}
+}
